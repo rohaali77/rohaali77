@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roha Ali, Undergraduate Computer Science Student at SZABIST.
-- 👀 I’m interested in Cyber Security, Ethical Hacking, Networking, UI Design, Cloud Computing.
-- 🌱 I’m currently learning Android App Development.
+- 👀 I’m interested in Ethical Hacking, UI Design, Quality Assurance.
+- 🌱 I’m currently learning DevOps and Ethical Hacking.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: rohachaudry@gmail.com.
 - 😄 Pronouns: She/Her.
