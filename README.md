@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Roha Ali, Undergraduate Computer Science Student at SZABIST.
+- 👋 Hi, I’m Roha Ali, Recent Graduate in Computer Science at SZABIST.
 - 👀 I’m interested in Ethical Hacking, UI Design, Quality Assurance.
 - 🌱 I’m currently learning DevOps and Ethical Hacking.
 - 💞️ I’m looking to collaborate on ...
